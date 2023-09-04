@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dode Teddy</h1>
 <h3 align="center">👨‍💻lifetime learner👨‍💻</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/dodeteddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dodeteddy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dode-teddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dode-teddy" height="30" width="40" /></a>
 <a href="https://instagram.com/dodeteddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dodeteddy" height="30" width="40" /></a>
