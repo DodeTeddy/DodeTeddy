@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dode Teddy</h1>
-<h3 align="center">👨‍💻 I'm currently still in the process of learning programming especially Dart programming language with Flutter framework</h3>
+<h3 align="center">👨‍💻lifetime learner👨‍💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
